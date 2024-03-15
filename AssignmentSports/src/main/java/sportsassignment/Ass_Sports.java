@@ -1,6 +1,6 @@
 package sportsassignment;
 
-public class Ass_Sports {
+public class Ass_Sports{
 	
 	public void play()
 	{
