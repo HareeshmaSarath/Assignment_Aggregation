@@ -2,7 +2,8 @@ package sportsassignment;
 
 public class Sport_Test {
 
-	public static void main(String[] args) {
+	public static void main(String arg[])
+	{
 		Ass_Sports as;//up casting
 		as=new Ass_Sports();
 		as.play();
@@ -13,5 +14,4 @@ public class Sport_Test {
 		as=new Ass_Cricket();
 		as.play();
 	}
-
 }
